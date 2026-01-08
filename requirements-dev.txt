@@ -1,0 +1,15 @@
+black==22.8.0
+debugpy==1.2.1
+flake8==3.8.4
+pre-commit==2.11.1
+#
+flake8-docstrings==1.5.0
+isort==5.7.0
+pycodestyle==2.6.0
+pydocstyle==5.1.1
+pyflakes==2.2.0
+pylint==2.7.2
+
+# check-manifest==0.41
+# pyroma==2.6
+# readme==0.7.1

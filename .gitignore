@@ -1,11 +1,13 @@
 ### .gitignore file for https://github.com/RogerSelwyn/genuishub-client-alt
 
 !.gitignore
-!requirements*.txt
 
 *.json
 *.out
 *.txt
+
+!requirements*.txt
+
 
 .vscode/*
 .secrets/*
