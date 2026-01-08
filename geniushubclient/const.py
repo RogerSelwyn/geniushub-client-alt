@@ -122,34 +122,6 @@ ATTRS_ISSUE = {"summary_keys": ["description", "level"], "detail_keys": []}
 #
 DEVICES_MODEL = [
     {"hash": "VIRTUAL", "sku": "virtual node", "description": "Virtual Node"},
-    {
-        "hash": "Danfoss/eTRV0100",
-        "sku": "da-wrv-e",
-        "description": "Wireless Radiator Valve",
-        "assignableZoneTypeIds": [3, 5],
-        "deviceString": "wrv",
-    },
-    {
-        "hash": "Danfoss/eTRV0103",
-        "sku": "da-wrv-e",
-        "description": "Wireless Radiator Valve",
-        "assignableZoneTypeIds": [3, 5],
-        "deviceString": "wrv",
-    },
-    {
-        "hash": "DXJI0RG/eTW6FJWG",
-        "sku": "da-wrv-e",
-        "description": "Wireless Radiator Valve",
-        "assignableZoneTypeIds": [3, 5],
-        "deviceString": "wrv",
-    },
-    {
-        "hash": "Genius Concepts/PH-PLG-E",
-        "sku": "ph-plg-e",
-        "description": "Smart Plug",
-        "assignableZoneTypeIds": [1, 2, 3, 5, 6],
-        "deviceString": "plg",
-    },
     {"hash": "0x0000000000000000", "sku": "n/a", "description": "Unrecognised Device"},
     {
         "assignableZoneTypeIds": [3, 5],
@@ -452,11 +424,7 @@ DEVICES_MODEL = [
         "hash": "0x0000006000010015",
         "sku": "ev-wrv-a",
     },
-<<<<<<< HEAD
-]  # from bower.js, search for: 'devicesModel: ['
-=======
 ]  # from bower.js, search for: 'Model: [{'
->>>>>>> upstream/main
 
 DEVICE_HASH_TO_TYPE = {d["hash"]: d["description"] for d in DEVICES_MODEL}
 
