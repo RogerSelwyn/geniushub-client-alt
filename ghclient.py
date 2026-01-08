@@ -63,7 +63,7 @@ import logging
 
 import aiohttp
 
-from geniushubclient-alt import GeniusHub, GeniusTestHub
+from geniushubclientalt import GeniusHub, GeniusTestHub
 
 DEBUG_ADDR = "172.27.0.138"
 DEBUG_PORT = 5678

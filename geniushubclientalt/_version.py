@@ -45,7 +45,7 @@ def get_config():
     cfg.style = "pep440"
     cfg.tag_prefix = ""
     cfg.parentdir_prefix = ""
-    cfg.versionfile_source = "geniushubclient-alt/_version.py"
+    cfg.versionfile_source = "geniushubclientalt/_version.py"
     cfg.verbose = False
     return cfg
 

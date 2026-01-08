@@ -1,4 +1,4 @@
-### .gitignore file for https://github.com/manzanotti/genuishub-client
+### .gitignore file for https://github.com/RogerSelwyn/genuishub-client-alt
 
 !.gitignore
 !requirements*.txt
@@ -156,3 +156,4 @@ cython_debug/
 # static files generated from Django application using `collectstatic`
 media
 static
+.DS_Store

@@ -5,8 +5,8 @@ Tests for the GeniusZone class
 import unittest
 from unittest.mock import Mock
 
-from geniushubclient.const import ZONE_KIT, ZONE_MODE, ZONE_TYPE
-from geniushubclient.zone import GeniusZone
+from geniushubclientalt.const import ZONE_KIT, ZONE_MODE, ZONE_TYPE
+from geniushubclientalt.zone import GeniusZone
 
 
 class GeniusZoneDataIsOccupiedTests(unittest.TestCase):

@@ -5,8 +5,8 @@ Tests for the GeniusZone class
 import unittest
 from unittest.mock import Mock
 
-from geniushubclient.const import IDAY_TO_DAY, ZONE_MODE, ZONE_TYPE
-from geniushubclient.zone import GeniusZone
+from geniushubclientalt.const import IDAY_TO_DAY, ZONE_MODE, ZONE_TYPE
+from geniushubclientalt.zone import GeniusZone
 
 
 class GeniusZoneDataTimerScheduleTests(unittest.TestCase):
