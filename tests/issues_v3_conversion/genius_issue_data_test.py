@@ -5,7 +5,7 @@ Tests for the GeniusZone class
 import unittest
 from unittest.mock import Mock
 
-from geniushubclient.issue import GeniusIssue
+from geniushubclient-alt.issue import GeniusIssue
 
 
 class GeniusIssueTests(unittest.TestCase):
