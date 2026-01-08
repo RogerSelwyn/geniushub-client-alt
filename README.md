@@ -1,5 +1,5 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/rogerselwyn/geniushub-client-alt/badge)](https://www.codefactor.io/repository/github/rogerselwyn/geniushub-client-alt)
-[![CodeQL](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/github-code-scanning/codeql) [![Python tests](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/test.yaml/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/test.yaml)
+[![CodeQL Advanced](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/codeql.yml/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/codeql.yml) [![Build and Test](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/build-and-test.yml)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/geniushubclientalt)](https://libraries.io/pypi/geniushubclientalt)
 
 ![GitHub release](https://img.shields.io/github/v/release/RogerSelwyn/geniushub-client-alt) [![maintained](https://img.shields.io/maintenance/yes/2026.svg)](#)
