@@ -1,3 +1,13 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/rogerselwyn/geniushub-client-alt/badge)](https://www.codefactor.io/repository/github/rogerselwyn/geniushub-client-alt)
+[![CodeQL](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/github-code-scanning/codeql) [![Python tests](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/test.yaml/badge.svg)](https://github.com/RogerSelwyn/geniushub-client-alt/actions/workflows/test.yaml)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/geniushubclientalt)](https://libraries.io/pypi/geniushubclientalt)
+
+![GitHub release](https://img.shields.io/github/v/release/RogerSelwyn/geniushub-client-alt) [![maintained](https://img.shields.io/maintenance/yes/2025.svg)](#)
+[![maintainer](https://img.shields.io/badge/maintainer-%20%40RogerSelwyn-blue.svg)](https://github.com/RogerSelwyn)
+![PyPI - Status](https://img.shields.io/pypi/status/geniushubclientalt)
+[![PyPI](https://img.shields.io/pypi/v/geniushubclientalt)](https://pypi.org/project/geniushubclientalt/)
+[![GitHub](https://img.shields.io/github/license/rogerselwyn/geniushub-client-alt)](https://github.com/RogerSewlwyn/geniushub-client-alt/blob/main/LICENSE)
+
 **This is a fork of the repository owned by [@manzanotti](https://github.com/manzanotti/geniushub-client/) which appears to have been abandoned. It can be remerged with his version if wanted.**
 
 # geniushub-client
