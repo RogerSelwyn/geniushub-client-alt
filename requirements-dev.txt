@@ -3,7 +3,7 @@ debugpy==1.2.1
 flake8==3.8.4
 pre-commit==4.5.1
 #
-flake8-docstrings==1.5.0
+flake8-docstrings==1.7.0
 isort==7.0.0
 pycodestyle==2.6.0
 pydocstyle==6.3.0
