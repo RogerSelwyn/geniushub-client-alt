@@ -1,6 +1,6 @@
 black==25.12.0
 debugpy==1.2.1
-flake8==3.8.4
+flake8==7.3.0
 pre-commit==4.5.1
 #
 flake8-docstrings==1.5.0
