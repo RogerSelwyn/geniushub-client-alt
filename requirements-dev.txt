@@ -1,5 +1,5 @@
 black==25.12.0
-debugpy==1.2.1
+debugpy==1.8.19
 flake8==3.8.4
 pre-commit==4.5.1
 #
