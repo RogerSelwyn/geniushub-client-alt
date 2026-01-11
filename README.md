@@ -10,7 +10,7 @@
 
 **This is a fork of the repository owned by [@manzanotti](https://github.com/manzanotti/geniushub-client/) which appears to have been abandoned. It can be remerged with his version if wanted.**
 
-# geniushub-client
+# geniushub-client-alt
 
 This is a Python library to provide access to a **Genius Hub** by abstracting its [RESTful API](https://my.geniushub.co.uk/docs). It uses **aiohttp** and is therefore async-friendly.
 
@@ -35,7 +35,7 @@ Current limitations & to-dos include:
 Thus, always check your output against the corresponding v1 API response rather than the web app.
 
 ## Installation
-Either clone this repository and run `python setup.py install`, or install from pip using `pip install geniushub-client`.
+Either clone this repository and run `python setup.py install`, or install from pip using `pip install geniushubclientalt`.
 
 ## Using the Library
 See `ghclient.py` for example code. You can also use `ghclient.py` for ad-hoc queries:
